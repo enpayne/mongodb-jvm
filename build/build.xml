@@ -45,7 +45,7 @@
 			<module group="org.mozilla" name="rhino" version="1.7+" />
 			<module group="com.threecrickets.jvm" name="json-jvm" version="2.0+" />
 			<module group="org.mongodb" name="mongodb-driver" version="3.2+" />
-			<module group="jline" name="jline" version="2.14" />
+			<module group="jline" name="jline" version="2.14.2" />
 			<repository id="repo" url="${dependencies.repo}" />
 		</creel:run>
 	</target>
